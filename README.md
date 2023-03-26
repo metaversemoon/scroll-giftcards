@@ -2,7 +2,7 @@
 
 Gift your loved ones this holiday season NFT Gift cards. NFT Gift Cards is a platform that helps you collect, create, trade, and sell your paper cards and turn them into digital assets. No more birthday cards ending up in the trash.
 
-![Main Page](https://raw.githubusercontent.com/metaversemoon/scroll-giftcards/main/collection.png) <br> <br>
+![Main Page](https://raw.githubusercontent.com/metaversemoon/scroll-giftcards/353734ca4d33b9a924000c967e8173d0ad1b0138/cover.png) <br> <br>
 
 ### Project Full details
 
